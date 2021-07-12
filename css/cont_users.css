@@ -1,0 +1,59 @@
+.contador {
+    text-align: center;
+    
+}
+
+.contenedor_contador {
+    background: #F4F6F7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+.contenedor_contador h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+
+.contador_cantidad {
+    font-size: 30px;
+    margin: 10px 0;
+    font-weight: 900;
+}
+
+.img_info_users {
+    width: 150px;
+}
+
+.contador h2 {
+    text-align: center;
+}
+
+
+@keyframes aparecer {
+    0% {
+        opacity: 0;
+        transform: translateY(100px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.ocultar {
+    opacity: 0;
+}
+
+.animar {
+    animation: aparecer 1.3s;
+}
+
+@media screen and (max-width: 600px) {
+    
+    .contador h2 {
+        margin-bottom: 30px;
+    }
+    
+}

@@ -1,0 +1,266 @@
+<!--
+
+    <section>
+      <div class="first_info">
+        <h1>
+          Updated charts of the year 2020 from all Ecuador airports!
+        </h1>
+        <p>
+          In order that all the procedures that are carried out in our airports
+          are the most real, we have decided to publish the letters updated from
+          all airports in Ecuador, we hope and are support to further increase
+          the simulation level.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <div class="orden_cartas_principales">
+        <div class="row">
+          <div class="col-lg-4 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SEQM - QUITO.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SEQM Charts - Quito</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SEMT - MANTA.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SEGU Charts - Manta</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SEGU - GUAYAQUIL.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SEGU Charts - Guayaquil</p></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="orden_cartas">
+        <div class="row">
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SECA - CATAMAYO.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SECA Charts - Catamayo</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a href="charts/SECO - COCA.pdf" class="go_charts" target="_blank"
+                ><p>SECO Charts - Coca</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SECU - CUENCA.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SECU Charts - Cuenca</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SEGS - BALTRA.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SEGS Charts - Baltra</p></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="orden_cartas">
+        <div class="row">
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SEJD - JUMANDY.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SEJD Charts - Jumandy</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SELT - LATACUNGA.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SELT Charts - Latacunga</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SEMC - MACAS.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SEMC Charts - Macas</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SENL - NUEVA LOJA.pdf"
+                class="go_charts"
+                target="_blank"
+              >
+                <p>SENL Charts - Nueva Loja</p></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="orden_cartas">
+        <div class="row">
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SERO - SANTA ROSA.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SERO Charts - Santa Rosa</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SESA - SALINAS.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SESA Charts - Salinas</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SESM - SHELL.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SESM Charts - Shell</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SEST - SAN CRISTOBAL.pdf"
+                class="go_charts"
+                target="_blank"
+              >
+                <p>SEST Charts - San Cristobal</p></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="orden_cartas">
+        <div class="row">
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SESV - SAN VICENTE.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SESV Charts - San Vicente</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SETN - TACHINA.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SETN Charts - Tachina</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SETR - TARAPOA.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SETR Charts - Tarapoa</p></a
+              >
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-7 col-sm-12 col-xs-12">
+            <div class="box">
+              <a
+                href="charts/SETU - TULCAN.pdf"
+                class="go_charts"
+                target="_blank"
+                ><p>SETU Charts - Tulcan</p></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="charts_file1">
+        <div class="row">
+          <div class="col-lg-8 col-md-5 col-sm-12 col-xs-12">
+            <div class="info_charts1">
+              <p>
+                If you want to download the entire package of our
+                navigation, you can do it by clicking on the download button!
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-5 col-sm-12 col-xs-12">
+            <div class="btn_charts1">
+              <a
+                href="charts/Cartas Aeronauticas Ecuador.zip"
+                download="Cartas Aeronauticas de Ecuador"
+              >
+                Download</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    -->

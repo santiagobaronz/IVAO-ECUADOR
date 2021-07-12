@@ -1,0 +1,27 @@
+.logo-charts{
+    width: 95%;
+    margin-top: 25px;
+}
+
+.title-charts{
+    text-align: center;
+    color: #000;
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 40%;
+    transform: translateY(-40%);
+    border-bottom: 2px solid rgb(236, 117, 38);
+    padding-bottom: 30px;
+}
+
+@media screen and (max-width: 425px){
+    .logo-charts{
+        margin-left: 10px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    }
+
+    .title-charts{
+        font-size: 30px;
+    }
+}

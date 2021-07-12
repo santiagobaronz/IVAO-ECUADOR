@@ -1,0 +1,302 @@
+.noticias_list {
+    margin-bottom: 30px;
+}
+
+
+
+.eventosimg {
+    position: relative;
+    width: 100%;
+    height: 470px;
+    background-color: #F5F5F5;
+    background-size: cover;
+    background-position: center;
+    transition: all 0.5 ease-in-out;
+    background-image: url('../../assets/img/imgeventos.jpg');
+    animation: banner 26s infinite linear;
+    
+}
+
+.conimgeven {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    background-color: rgba(0,22,40,0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.conimgeven h1 {
+    margin-top: 40px;
+    padding: 0;
+    padding-bottom: 30px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.titleevents {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+}
+
+.descriptionevents {
+    text-align: center;
+    margin-right: 20px;
+    margin-bottom: 45px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.imagen_evento {
+    margin-left: 70px;
+    width: 750px;
+    height: 400px;
+    margin-right: 20px;
+    display: inline-block;
+    
+}
+
+.espec_evento {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.espec_evento h1 {
+    margin-bottom: 18px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.espec_evento .intro {
+    margin-bottom: 20px;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.fecha_evento , .lugar_evento , .estado_evento , .hora_evento {
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+
+.boton_vermas p {
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #1B4F72;
+    box-shadow: 0px 3px 0px #5DADE2;
+    border: 1px solid;
+    color: #fff;
+    border-radius: 50px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    transition: all 0.5s;
+}
+
+.espec_evento a {
+    text-decoration: none;
+}
+
+.boton_vermas p:hover {
+    padding: 15px;
+    transition: all 0.5s;
+    background-color: #2980B9;
+}
+
+.web_tours{
+    margin-top: 10px;
+    -webkit-box-shadow: 11px -1px 39px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: 11px -1px 39px -9px rgba(0,0,0,0.75);
+    box-shadow: 11px -1px 39px -9px rgba(0,0,0,0.75);
+}
+
+.container_footer_events_report {
+    position: absolute;
+    background: #273746;
+    width: 100%;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.eventosimg2-1 {
+    position: relative;
+    width: 100%;
+    height: 470px;
+    background-color: #F5F5F5;
+    background-size: cover;
+    background-position: center;
+    transition: all 0.5 ease-in-out;
+    background-image: url('../../assets/img/events_report.png');
+    animation: banner 26s infinite linear;
+    
+}
+
+.conimgeven2-1 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    background-color: rgba(0,22,40,0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.conimgeven2-1 h1 {
+    margin-top: 40px;
+    padding: 0;
+    padding-bottom: 30px;
+    font-size: 50px;
+    text-align: center;
+}
+
+@media screen and (max-width: 2000px){
+    .imagen_evento {
+        width: 100%;
+        height: 300px;
+        margin-right: 20px;
+    }
+
+    .espec_evento{
+        margin-left: 85px;
+    }
+    
+    .espec_evento h1 {
+        margin-bottom: 8px;
+        text-align: left;
+        font-size: 20px;
+    }
+    
+    .espec_evento .intro {
+        margin-bottom: 20px;
+        text-align: justify;
+        font-size: 18px;
+    }
+    
+    .fecha_evento , .lugar_evento , .estado_evento , .hora_evento {
+        margin-bottom: 12px;
+        font-size: 18px;
+    }
+}
+
+
+@media screen and (max-width: 1440px){
+    .imagen_evento {
+        width: 100%;
+        height: 300px;
+        margin-right: 20px;
+    }
+
+    .espec_evento{
+        margin-left: 85px;
+    }
+    
+    .espec_evento h1 {
+        margin-bottom: 8px;
+        text-align: left;
+        font-size: 20px;
+    }
+    
+    .espec_evento .intro {
+        margin-bottom: 20px;
+        text-align: justify;
+        font-size: 15px;
+    }
+    
+    .fecha_evento , .lugar_evento , .estado_evento , .hora_evento {
+        margin-bottom: 5px;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .imagen_evento {
+        width: 100%;
+        height: 225px;
+    }
+    .espec_evento .intro {
+        margin-bottom: 10px;
+        text-align: justify;
+        font-size: 15px;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    
+    .espec_evento{
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+  .imagen_evento {
+    width: 100%;
+    height: 300px;
+    display: block;
+    margin: auto
+}  
+.conimgeven2-1 h1 {
+    margin-top: 40px;
+    padding: 0;
+    padding-bottom: 30px;
+    font-size: 40px;
+    text-align: center;
+}
+    
+    .espec_evento h1 {
+        text-align: center;
+    }
+    
+    .fecha_evento , .lugar_evento , .estado_evento, .hora_evento {
+    margin-bottom: 10px;
+}
+    
+    
+}
+
+@media screen and (max-width: 768px){
+    .imagen_evento{
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .conimgeven h1{
+        font-size: 45px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
