@@ -87,8 +87,8 @@
             </p>
             <ul class="children">
               <li><a href="https://ec.ivao.aero/atc/atc_operations.php">ATC Operations</a></li>
-              <li><a href="https://ec.ivao.aero/atc/atc_special_operations.php">Special Operations</a></li>
-              <li><a href="https://mediawiki.ivao.aero/index.php?title=Main_Page#IVAO_Training_HQ_Mediawiki_Database" target="_blank">Training</a></li>
+              <li><a href="https://ec.ivao.aero/atc/special_operations.php">Special Operations</a></li>
+              <li><a href="https://wiki.ivao.aero/en/home/training/main/atc_documentation" target="_blank">Training</a></li>
               <li><a href="../../atc/documents/IVAO Ecuador - Lineamientos para Exámenes ATC.pdf" target="_blank">Guidelines for ATC Exams</a></li>
               <li><a href="https://ec.ivao.aero/atc/gca.php">GCA</a></li>
               <li><a href="https://ec.ivao.aero/atc/local_procedures.php">Local procedures</a></li>
