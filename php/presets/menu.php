@@ -75,8 +75,7 @@
               <span class="caret icon-arrow-down6"></span>
             </p>
             <ul class="children">
-              <li><a href="https://ec.ivao.aero/sources/charts.php">Charts</a></li>
-              <li><a href="https://mediawiki.ivao.aero/index.php?title=Main_Page#IVAO_Training_HQ_Mediawiki_Database" target="_blank">Training</a></li>
+              <li><a href="https://wiki.ivao.aero/en/home/training/main/pilot_documentation" target="_blank">Training</a></li>
             </ul>
           </li>
 
@@ -87,7 +86,6 @@
             </p>
             <ul class="children">
               <li><a href="https://ec.ivao.aero/atc/atc_operations.php">ATC Operations</a></li>
-              <li><a href="https://ec.ivao.aero/atc/special_operations.php">Special Operations</a></li>
               <li><a href="https://wiki.ivao.aero/en/home/training/main/atc_documentation" target="_blank">Training</a></li>
               <li><a href="../../atc/documents/IVAO Ecuador - Lineamientos para Exámenes ATC.pdf" target="_blank">Guidelines for ATC Exams</a></li>
               <li><a href="https://ec.ivao.aero/atc/gca.php">GCA</a></li>
@@ -103,6 +101,7 @@
             <ul class="children">
               <li><a href="https://ec.ivao.aero/sources/charts.php">Charts</a></li>
               <li><a href="https://ec.ivao.aero/sources/software.php">Software</a></li>
+              <li><a href="https://ec.ivao.aero/atc/special_operations.php">Special Operations</a></li>
               <li><a href="https://ec.ivao.aero/sources/sectorfiles.php">Sector Files</a></li>
               <li><a href="http://www.ais.aviacioncivil.gob.ec/ifis3/">Ecuador AIP</a></li>
               <li><a href="http://www.ais.aviacioncivil.gob.ec/">Ecuador IFIS</a></li>

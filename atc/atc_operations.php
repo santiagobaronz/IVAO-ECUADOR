@@ -84,10 +84,6 @@
             <hr>
             <br>
             <a href="documents/OACI - Manual de Radiotelefonia.pdf" target="_blank" >Download the Radio Manual</a>
-            <br>
-            <hr>
-            <br>
-            <a href="documents/Manual-de-Gestión-del-Tránsito-Aéreo-NATS-MA-001.pdf" target="_blank" >Managment Manual of the Air Traffic</a>
           </div>
         </div>
       </div>
