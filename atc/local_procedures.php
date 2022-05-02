@@ -88,6 +88,11 @@
             <br>
             <a href="documents/ManualdeOperacionesATC.pdf"
             target="_blank">Descarga los procedimientos locales de Ecuador (Español)</a>
+            <br>
+            <hr>
+            <br>
+            <a href="documents/LOA SEFG-SKED.pdf"
+            target="_blank">Letter of agreement FIR SEFG-SKED</a>
           </div>
         </div>
       </div>

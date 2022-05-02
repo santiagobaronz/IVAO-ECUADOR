@@ -217,7 +217,7 @@
         <div class="row">
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div class="img_software">
-              <img src="assets/img/sd-ivac.jpg" alt="Imagen Software" class="img-software-ivac"/>
+              <img src="assets/img/sd-ivac.jpeg" alt="Imagen Software" class="img-software-ivac"/>
             </div>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -227,21 +227,15 @@
               </h1>
 
               <p>
-                The IVAO ATC Client, known as IVAC, is a program standalone
-                developed specifically for IVAO, based on the real radars of
-                Belgocontrol, Eurocontrol and Amsterdam Radar, which allows you
-                to control on the network.
+              The IVAO ATC Client, known as AURORA, is a program developed specifically for IVAO, based on the real radars which allows you to control on the network.
               </p>
 
               <p>
-                IVAC is a feature rich application that provides a comprehensive
-                set of tools for positions ranging from delivery to central
-                controllers. This client of free software allows you to stay
-                connected and coordinate with our online pilots.
+              AURORA is a feature rich application that provides a comprehensive set of tools for positions ranging from delivery to central controllers. This client of free software allows you to stay connected and coordinate with our online pilots and other ATC.
               </p>
 
-              <a href="https://ivao.aero/softdev/ivac.asp" class="boton_vermas"
-                ><p>Learn more about Ivac software!</p></a
+              <a href="https://ivao.aero/software/aurora" class="boton_vermas"
+                ><p>Learn more about Aurora software!</p></a
               >
             </div>
           </div>
@@ -302,19 +296,14 @@
               </h1>
 
               <p>
-                The IVAO Pilot Client, known as IvAp, is a complement that
-                Allows flight simulation programs to connect to the IVAO
-                network.
+              The IVAO Pilot Client, known as ALTITUDE, is a complement that Allows flight simulation programs to connect to the IVAO network.
               </p>
 
               <p>
-                IvAp enables pilots to effectively communicate with ATC units
-                and automatically change the frequencies of communication.
-                Squawk codes, transponder mode and METAR information are also
-                some of the many functions available to the pilot through IvAp.
+              ALTITUDE enables pilots to effectively communicate with ATC units and automatically change the frequencies of communication. Squawk codes, transponder mode and METAR information are also some of the many functions available to the pilot through ALTITUDE
               </p>
 
-              <a href="https://ivao.aero/softdev/ivap.asp" class="boton_vermas">
+              <a href="https://ivao.aero/software/altitude" class="boton_vermas">
                 <p>Try this Pilot Software now!</p></a
               >
             </div>

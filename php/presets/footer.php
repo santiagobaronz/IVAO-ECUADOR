@@ -27,7 +27,7 @@
                 <li><a href="https://wiki.ivao.aero/en/home/ivao/privacypolicy" target="_blank">Privacy Policy</a></li>
                 <li><a href="https://ec.ivao.aero/events/events.php">Events</a></li>
                 <li><a href="https://ec.ivao.aero/sources/software.php">Tools</a></li>
-                <li><a href="https://ec.ivao.aero/admin_panel/login.php">Staff</a></li>
+                <!--<li><a href="https://ec.ivao.aero/admin_panel/login.php">Staff</a></li>-->
                 <li><a href="https://wiki.ivao.aero/en/home/ivao/terms-of-use" target="_blank">Terms of use</a></li>
                 <li><a href="https://wiki.ivao.aero/en/home/ivao/intellectual-property-policy" target="_blank">Intellectual property policy</a></li>
               </ul>

@@ -13,6 +13,21 @@
   margin-left: 0px;
 }
 
+.img_special-operations {
+  position: relative;
+  width: 100%;
+  height: 290px;
+  background-color: #f5f5f5;
+  background-size: cover;
+  background-position: center;
+  transition: all 0.5 ease-in-out;
+  background-image: url("../../assets/img/operations.JPG");
+  animation: banner 26s infinite linear;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: 0px;
+}
+
 .banner_atcoperations {
   margin: 0;
   padding: 0;

@@ -67,7 +67,7 @@
             <h1>Check our ATC Operations Manual (QuickView for ATC)</h1>
             <p>
               Learn about how to be an ATC in Ecuador in our Local procedures
-              documentation. In this document you will find some information like:
+              documentation. In these documents you will find some information like:
             </p>
             <ul>
               <li>Ecuador airspace.</li>
@@ -78,8 +78,16 @@
               <li>Communications, Airfield Informations and Navaids</li>
               <li>And more!</li>
             </ul>
-            <p>Download the document here:</p>
+            <p>Download the documents here:</p>
             <a href="documents/IVAO Ecuador-QuickViewforATC.xlsx" target="_blank" >Download the ATC Operations Manual (QuickView for ATC)</a>
+            <br>
+            <hr>
+            <br>
+            <a href="documents/OACI - Manual de Radiotelefonia.pdf" target="_blank" >Download the Radio Manual</a>
+            <br>
+            <hr>
+            <br>
+            <a href="documents/Manual-de-Gestión-del-Tránsito-Aéreo-NATS-MA-001.pdf" target="_blank" >Managment Manual of the Air Traffic</a>
           </div>
         </div>
       </div>

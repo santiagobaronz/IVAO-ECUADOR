@@ -80,7 +80,11 @@
               <li>And more!</li>
             </ul>
             <p>Download the document here:</p>
-            <a href="documents/IVAO Ecuador-EnglishPhraseologyExamples.pdf" target="_blank">Download the Phraseology Manual</a>
+            <a href="documents/DGAC - Manual de fraseología aeronáutica del Ecuador.pdf" target="_blank">Download the Phraseology Manual</a>
+            <br>
+            <hr>
+            <br>
+            <a href="documents/DGAC - Procedimiento guía vectorial SEQM pista 36.pdf">Download the SEQM vector guide</a>
           </div>
         </div>
       </div>
