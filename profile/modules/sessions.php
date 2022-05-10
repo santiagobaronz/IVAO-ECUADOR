@@ -2,12 +2,6 @@
     
     require "../php/login_ivao.php";
 
-    /*if(isset($_SESSION['cookie_name'])){
-        echo("<script>alert('La sesión ha expirado, o no ha sido iniciada.');</script>");
-        header("Location: https://ec.ivao.aero");
-    } Decomentar para trabajar en local */ 
-
-
     if(isset($_SESSION['cookie_name'])){
         $_SESSION['nombre'] = utf8_decode($user_array->firstname);
         $_SESSION['apellido'] = utf8_decode($user_array->lastname);
@@ -54,6 +48,8 @@
         }
 
 }else{
+		echo("<script>alert('La sesión ha expirado, o no ha sido iniciada.');</script>");
+        header("Location: https://ec.ivao.aero");
 }
 
 ?>
