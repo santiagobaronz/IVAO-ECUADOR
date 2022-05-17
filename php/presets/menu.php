@@ -101,6 +101,7 @@
             <ul class="children">
               <li><a href="https://ec.ivao.aero/sources/charts.php">Charts</a></li>
               <li><a href="https://ec.ivao.aero/sources/software.php">Software</a></li>
+              <li><a href="https://training.ec.ivao.aero/">Training Request</a></li>
               <li><a href="https://ec.ivao.aero/atc/special_operations.php">Special Operations</a></li>
               <li><a href="https://ec.ivao.aero/sources/sectorfiles.php">Sector Files</a></li>
               <li><a href="http://www.ais.aviacioncivil.gob.ec/ifis3/">Ecuador AIP</a></li>
