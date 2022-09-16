@@ -99,7 +99,7 @@
               <span class="icon-download tool_fix"></span><b>Resources</b>
             </p>
             <ul class="children">
-              <li><a href="https://ec.ivao.aero/sources/charts.php">Charts</a></li>
+              <li><a href="http://charts.ec.ivao.aero/">Charts</a></li>
               <li><a href="https://ec.ivao.aero/sources/software.php">Software</a></li>
               <li><a href="https://training.ec.ivao.aero/">Training Request</a></li>
               <li><a href="https://ec.ivao.aero/atc/special_operations.php">Special Operations</a></li>

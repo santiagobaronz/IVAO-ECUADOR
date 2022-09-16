@@ -29,7 +29,7 @@
                 <ul>
                     <li class="header">MENÚ DE NAVEGACIÓN</li>
                     <li><div class="item-links"><span class="icon-earth icon-gray menu-icon"></span><a href="dashboard.php">Inicio</a></div></li>
-                    <li><div class="item-links"><span class="icon-stack icon-gray menu-icon"></span><a href="cartas.php">Cartas de navegación</a></div></li>
+                    <li><div class="item-links"><span class="icon-stack icon-gray menu-icon"></span><a href="http://charts.ec.ivao.aero/">Cartas de navegación</a></div></li>
                     <li class="submenu" id="menu-toggle">
                         <div class="item-links"><span class="icon-book icon-gray menu-icon"></span><a>Operaciones</a><span class="icon-arrow-down2 icon-white menu-icon-dropdown" id="icon-submenu"></div>
                     </li>
